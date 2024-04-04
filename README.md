@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mayur40
+- 👋 Hi, I’m @mayur7267
 - 👀 I’m interested in ... computing!!
 - 🌱 I’m currently learning ... iOS Development 
 - 💞️ I’m looking to collaborate on ...
