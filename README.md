@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mayur7267
 - 👀 I’m interested in ... computing!!
 - 🌱 I’m currently learning ... iOS Development , python programming
-- 💞️ I’m looking to collaborate on ...
+  
 - 📫 How to reach me ... mayurl.7267@gmail.com
 
 <!---
